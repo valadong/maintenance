@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
   \*******************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_cjs_js_node_modules_sanitize_css_sanitize_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! -!../node_modules/css-loader/dist/cjs.js!../node_modules/sanitize.css/sanitize.css */ \"./node_modules/css-loader/dist/cjs.js!./node_modules/sanitize.css/sanitize.css\");\n/* harmony import */ var _node_modules_css_loader_dist_cjs_js_stylesheet_borderbox_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! -!../node_modules/css-loader/dist/cjs.js!./stylesheet/borderbox.css */ \"./node_modules/css-loader/dist/cjs.js!./src/stylesheet/borderbox.css\");\n// Imports\n\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});\n___CSS_LOADER_EXPORT___.i(_node_modules_css_loader_dist_cjs_js_node_modules_sanitize_css_sanitize_css__WEBPACK_IMPORTED_MODULE_1__.default);\n___CSS_LOADER_EXPORT___.i(_node_modules_css_loader_dist_cjs_js_stylesheet_borderbox_css__WEBPACK_IMPORTED_MODULE_2__.default);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \".date {\\n  text-align: right;\\n}\\n\\n.date h4 {\\n    margin: 0;\\n    padding: 0 10px;\\n  }\\nul {\\n  list-style: none;\\n  display: flex;\\n  padding: 0;\\n  margin: 0;\\n}\\nul li {\\n    padding: 0 10px 0 10px;\\n    margin-left: 10px;\\n    border-top-left-radius: 5px;\\n    border-top-right-radius: 5px;\\n  }\\nul li:last-child {\\n      background: blue;\\n    }\\nul li:hover {\\n      color: white;\\n      background: rgba(181, 38, 28, 0.5);\\n      transition: background-color 0.5s ease;\\n      transition: color 0.5s ease;\\n    }\\n\\n#modal {\\n  display: none;\\n  position: absolute;\\n  z-index: 1;\\n  top: 0;\\n  left: 0;\\n  width: 100%;\\n  height: 100%;\\n  background: rgba(255, 99, 71, 0.2);\\n}\\n\\n#modal .modalContent {\\n    background: rgba(0, 0, 0, 0.5);\\n    width: 200px;\\n    margin: 50px auto;\\n  }\\n.table {\\n  table-layout: auto;\\n  width: 100%;\\n}\\n.table th {\\n    position: relative;\\n  }\\n.table th div {\\n      resize: both;\\n    }\\n.resizer {\\n  /* Displayed at the right side of column */\\n  position: absolute;\\n  top: 0;\\n  right: 0;\\n  width: 5px;\\n  cursor: col-resize;\\n  -webkit-user-select: none;\\n     -moz-user-select: none;\\n      -ms-user-select: none;\\n          user-select: none;\\n}\\n\\nh2 {\\n  display: none;\\n  position: absolute;\\n  top: 0;\\n  left: 0;\\n  margin: 0 40px;\\n}\\n\\n.vision {\\n  display: block;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://ownquery/./src/style.css?./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_cjs_js_node_modules_sanitize_css_sanitize_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! -!../node_modules/css-loader/dist/cjs.js!../node_modules/sanitize.css/sanitize.css */ \"./node_modules/css-loader/dist/cjs.js!./node_modules/sanitize.css/sanitize.css\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _stylesheet_OpenSans_Light_ttf__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stylesheet/OpenSans-Light.ttf */ \"./src/stylesheet/OpenSans-Light.ttf\");\n// Imports\n\n\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});\n___CSS_LOADER_EXPORT___.i(_node_modules_css_loader_dist_cjs_js_node_modules_sanitize_css_sanitize_css__WEBPACK_IMPORTED_MODULE_1__.default);\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(_stylesheet_OpenSans_Light_ttf__WEBPACK_IMPORTED_MODULE_3__.default);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"@font-face {\\n  font-family: \\\"OpenSans-Light\\\";\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \");\\n}\\n/* @import url(\\\"./stylesheet/borderbox.css\\\"); */\\nbody {\\n  font-family: \\\"OpenSans-Light\\\";\\n  padding: 0 40px;\\n}\\nheader {\\n  padding-left: 20px;\\n}\\nheader h1 {\\n    margin-bottom: 0;\\n    /* &:after {\\n      content: \\\"\\\";\\n      display: block;\\n      width: 100px;\\n      margin-left: 20px;\\n      border-bottom: 1px solid black;\\n    } */\\n  }\\nheader h3 {\\n    margin: 0;\\n  }\\nheader .date {\\n    margin-right: 20px;\\n    text-align: right;\\n  }\\nheader .date p {\\n      margin: 0;\\n    }\\nheader .date h4 {\\n      margin: 0;\\n    }\\nheader .date h4:after {\\n        content: \\\"\\\";\\n        display: block;\\n        width: 500px;\\n        border-bottom: 1px solid;\\n        -o-border-image: linear-gradient(\\n            45deg,\\n            rgb(0, 143, 104),\\n            rgb(250, 224, 66)\\n          )\\n          1;\\n           border-image: linear-gradient(\\n            45deg,\\n            rgb(0, 143, 104),\\n            rgb(250, 224, 66)\\n          )\\n          1;\\n      }\\nnav ul {\\n    list-style: none;\\n    display: flex;\\n    padding: 0;\\n    margin: 0;\\n  }\\nnav ul li {\\n      padding: 0 10px 0 10px;\\n      margin: 0 5px 0 0;\\n      border: 1px solid black;\\n      border-top-left-radius: 5px;\\n      border-top-right-radius: 5px;\\n      border-bottom: 0;\\n    }\\nnav ul li:first-child {\\n        margin-left: 20px;\\n      }\\nnav ul li:last-child {\\n        background: blue;\\n      }\\nnav ul li:hover {\\n        color: white;\\n        background: rgba(181, 38, 28, 0.5);\\n        transition: background-color 0.5s ease;\\n        transition: color 0.5s ease;\\n      }\\nsection .table {\\n    table-layout: auto;\\n    width: 100%;\\n  }\\nsection .table th {\\n      position: relative;\\n    }\\nsection .table th div {\\n        resize: both;\\n      }\\nsection .table tr {\\n      border-bottom: 1px solid black;\\n    }\\nsection .table tr:first-child {\\n        border: 0;\\n      }\\nsection .table tr td {\\n        padding-left: 4px;\\n      }\\n#modal {\\n  display: none;\\n  position: absolute;\\n  z-index: 1;\\n  top: 0;\\n  left: 0;\\n  width: 100%;\\n  height: 100%;\\n  background: rgba(255, 99, 71, 0.2);\\n}\\n#modal .modalContent {\\n    background: rgba(0, 0, 0, 0.5);\\n    width: 200px;\\n    margin: 50px auto;\\n  }\\n.resizer {\\n  /* Displayed at the right side of column */\\n  position: absolute;\\n  top: 0;\\n  right: 0;\\n  width: 5px;\\n  cursor: col-resize;\\n  -webkit-user-select: none;\\n     -moz-user-select: none;\\n      -ms-user-select: none;\\n          user-select: none;\\n}\\n\\nh2 {\\n  display: none;\\n  position: absolute;\\n  top: 0;\\n  left: 0;\\n  margin: 0 40px;\\n}\\n\\n.vision {\\n  display: block;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://ownquery/./src/style.css?./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -40,16 +40,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/dist/cjs.js!./src/stylesheet/borderbox.css":
-/*!****************************************************************************!*\
-  !*** ./node_modules/css-loader/dist/cjs.js!./src/stylesheet/borderbox.css ***!
-  \****************************************************************************/
-/***/ ((module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);\n// Imports\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"body,\\nh1,\\nh2,\\nh3,\\ndiv,\\nspan,\\nul,\\nli,\\np,\\na,\\nbutton,\\nform,\\narticle,\\naside,\\ndetails,\\nfigcaption,\\nfigure,\\nheader,\\nmain,\\nmark,\\nnav,\\nsection,\\nsummary,\\ntime,\\ntable,\\nth,\\ntr,\\ntd {\\n  border: solid black 1px;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://ownquery/./src/stylesheet/borderbox.css?./node_modules/css-loader/dist/cjs.js");
-
-/***/ }),
-
 /***/ "./node_modules/css-loader/dist/runtime/api.js":
 /*!*****************************************************!*\
   !*** ./node_modules/css-loader/dist/runtime/api.js ***!
@@ -57,6 +47,26 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((module) => {
 
 eval("\n\n/*\n  MIT License http://www.opensource.org/licenses/mit-license.php\n  Author Tobias Koppers @sokra\n*/\n// css base code, injected by the css-loader\n// eslint-disable-next-line func-names\nmodule.exports = function (cssWithMappingToString) {\n  var list = []; // return the list of modules as css string\n\n  list.toString = function toString() {\n    return this.map(function (item) {\n      var content = cssWithMappingToString(item);\n\n      if (item[2]) {\n        return \"@media \".concat(item[2], \" {\").concat(content, \"}\");\n      }\n\n      return content;\n    }).join(\"\");\n  }; // import a list of modules into the list\n  // eslint-disable-next-line func-names\n\n\n  list.i = function (modules, mediaQuery, dedupe) {\n    if (typeof modules === \"string\") {\n      // eslint-disable-next-line no-param-reassign\n      modules = [[null, modules, \"\"]];\n    }\n\n    var alreadyImportedModules = {};\n\n    if (dedupe) {\n      for (var i = 0; i < this.length; i++) {\n        // eslint-disable-next-line prefer-destructuring\n        var id = this[i][0];\n\n        if (id != null) {\n          alreadyImportedModules[id] = true;\n        }\n      }\n    }\n\n    for (var _i = 0; _i < modules.length; _i++) {\n      var item = [].concat(modules[_i]);\n\n      if (dedupe && alreadyImportedModules[item[0]]) {\n        // eslint-disable-next-line no-continue\n        continue;\n      }\n\n      if (mediaQuery) {\n        if (!item[2]) {\n          item[2] = mediaQuery;\n        } else {\n          item[2] = \"\".concat(mediaQuery, \" and \").concat(item[2]);\n        }\n      }\n\n      list.push(item);\n    }\n  };\n\n  return list;\n};\n\n//# sourceURL=webpack://ownquery/./node_modules/css-loader/dist/runtime/api.js?");
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/runtime/getUrl.js":
+/*!********************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/getUrl.js ***!
+  \********************************************************/
+/***/ ((module) => {
+
+eval("\n\nmodule.exports = function (url, options) {\n  if (!options) {\n    // eslint-disable-next-line no-param-reassign\n    options = {};\n  } // eslint-disable-next-line no-underscore-dangle, no-param-reassign\n\n\n  url = url && url.__esModule ? url.default : url;\n\n  if (typeof url !== \"string\") {\n    return url;\n  } // If url is already wrapped in quotes, remove them\n\n\n  if (/^['\"].*['\"]$/.test(url)) {\n    // eslint-disable-next-line no-param-reassign\n    url = url.slice(1, -1);\n  }\n\n  if (options.hash) {\n    // eslint-disable-next-line no-param-reassign\n    url += options.hash;\n  } // Should url be wrapped?\n  // See https://drafts.csswg.org/css-values-3/#urls\n\n\n  if (/[\"'() \\t\\n]/.test(url) || options.needQuotes) {\n    return \"\\\"\".concat(url.replace(/\"/g, '\\\\\"').replace(/\\n/g, \"\\\\n\"), \"\\\"\");\n  }\n\n  return url;\n};\n\n//# sourceURL=webpack://ownquery/./node_modules/css-loader/dist/runtime/getUrl.js?");
+
+/***/ }),
+
+/***/ "./src/stylesheet/OpenSans-Light.ttf":
+/*!*******************************************!*\
+  !*** ./src/stylesheet/OpenSans-Light.ttf ***!
+  \*******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"ed41bedf131bc097372a961dbec109a1.ttf\");\n\n//# sourceURL=webpack://ownquery/./src/stylesheet/OpenSans-Light.ttf?");
 
 /***/ }),
 
@@ -131,6 +141,18 @@ eval("\n\nvar isOldIE = function isOldIE() {\n  var memo;\n  return function mem
 /******/ 		};
 /******/ 	})();
 /******/ 	
+/******/ 	/* webpack/runtime/global */
+/******/ 	(() => {
+/******/ 		__webpack_require__.g = (function() {
+/******/ 			if (typeof globalThis === 'object') return globalThis;
+/******/ 			try {
+/******/ 				return this || new Function('return this')();
+/******/ 			} catch (e) {
+/******/ 				if (typeof window === 'object') return window;
+/******/ 			}
+/******/ 		})();
+/******/ 	})();
+/******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	(() => {
 /******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
@@ -145,6 +167,26 @@ eval("\n\nvar isOldIE = function isOldIE() {\n  var memo;\n  return function mem
 /******/ 			}
 /******/ 			Object.defineProperty(exports, '__esModule', { value: true });
 /******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/publicPath */
+/******/ 	(() => {
+/******/ 		var scriptUrl;
+/******/ 		if (__webpack_require__.g.importScripts) scriptUrl = __webpack_require__.g.location + "";
+/******/ 		var document = __webpack_require__.g.document;
+/******/ 		if (!scriptUrl && document) {
+/******/ 			if (document.currentScript)
+/******/ 				scriptUrl = document.currentScript.src
+/******/ 			if (!scriptUrl) {
+/******/ 				var scripts = document.getElementsByTagName("script");
+/******/ 				if(scripts.length) scriptUrl = scripts[scripts.length - 1].src
+/******/ 			}
+/******/ 		}
+/******/ 		// When supporting browsers where an automatic publicPath is not supported you must specify an output.publicPath manually via configuration
+/******/ 		// or pass an empty string ("") and set the __webpack_public_path__ variable from your code to use your own logic.
+/******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
+/******/ 		scriptUrl = scriptUrl.replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
+/******/ 		__webpack_require__.p = scriptUrl;
 /******/ 	})();
 /******/ 	
 /************************************************************************/
