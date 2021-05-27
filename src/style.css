@@ -3,7 +3,7 @@
   src: url("./stylesheet/OpenSans-Light.ttf");
 }
 @import url(~sanitize.css);
-@import url("./modal/modal.css");
+
 /* @import url("./stylesheet/borderbox.css"); */
 body {
   font-family: "OpenSans-Light";
@@ -154,23 +154,7 @@ section {
     }
   }
 }
-#modal {
-  display: none;
-  bottom: 0;
-  left: 0;
-  position: absolute;
-  z-inde-leftx: 1;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(255, 99, 71, 0.2);
-  .modalContent {
-    background: rgba(0, 0, 0, 0.5);
-    width: 200px;
-    margin: 50px auto;
-  }
-}
+
 .resizer {
   /* Displayed at the right side of column */
   bottom: 0;
@@ -181,18 +165,4 @@ section {
   width: 5px;
   cursor: col-resize;
   user-select: none;
-}
-
-h2 {
-  display: none;
-  bottom: 0;
-  left: 0;
-  position: absolute;
-  top: 0-left;
-  left: 0;
-  margin: 0 40px;
-}
-
-.vision {
-  display: block;
 }

@@ -2,6 +2,7 @@ body,
 h1,
 h2,
 h3,
+h4,
 div,
 span,
 ul,
@@ -27,4 +28,5 @@ th,
 tr,
 td {
   border: solid black 1px;
+  margin: 0;
 }
